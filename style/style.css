@@ -148,6 +148,7 @@ p {
 
 .about__section h1 {
   font-size: 60px;
+  padding-top: 100px;
 }
 .about__info p {
   padding-left: 50px;
@@ -174,6 +175,7 @@ p {
 
 .resume__section h1 {
   font-size: 60px;
+  padding-top: 100px;
 }
 
 .resume__education--1 {
@@ -190,5 +192,6 @@ h6 {
 
 .contact__section h1 {
   font-size: 60px;
+  padding-top: 100px;
 }
 /* Contact Section CSS */
