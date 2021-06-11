@@ -167,6 +167,9 @@ p {
 }
 
 /* Resume Section CSS */
+.resume__section {
+  padding-top: 120px;
+}
 .resume__education {
   display: flex;
   flex-direction: column;
@@ -177,7 +180,6 @@ p {
 
 .resume__section h1 {
   font-size: 60px;
-  padding-top: 100px;
 }
 
 .resume__education--1 {
