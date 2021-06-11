@@ -168,6 +168,8 @@ p {
 
 /* Resume Section CSS */
 .resume__education {
+  display: flex;
+  flex-direction: column;
   background-color: slategray;
   padding: 10px 10px 10px 30px;
   margin: 30px;
